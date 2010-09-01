@@ -1,0 +1,11 @@
+	__________________Design Document____________
+
+- The board colours are recorded here just in case they vanish.
+- The board needs to be able to handle the data read in from the full
+  boards
+
+- board pieces can just be gotten from the reference, they are totally
+  for decoration.  
+
+- thinking we use a database for this?
+- what language?  

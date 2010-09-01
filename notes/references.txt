@@ -1,0 +1,716 @@
+http://www.chessvariants.com/historic.dir/enochian.html
+
+Enochian chess, an interesting variation on Chaturanga for Four Players, 
+also has its origins in a particular subculture, in this case the world 
+of Victorian occultists.
+
+Enochian chess first appears to have been played by members of the Order 
+of the Golden Dawn, who used their boards and pieces for divination as 
+well as gameplay. Documentary evidence for the existence of the game (in 
+the form of a Golden Dawn paper dating from no later than 1897) has come 
+to light, but no historical documents discovered so far have given the 
+complete rules for game play. Nobel Prize-winning poet and Golden Dawn 
+member William Butler Yeats (1865-1939) records in his memoirs that in 
+1894 he played "a curious form of chess at which there should be four 
+players" with two other members of the Golden Dawn. One of the other 
+players was MacGregor Mathers (1854-1918), a founding father of the 
+order. In his book The Golden Dawn noted occultist Israel Regardie 
+(1907-1985) provides a description of the boards and the pieces used in 
+Enochian chess. He also gives two arrays and the occult methodology 
+whereby the others may be derived. Regardie attributes part of the 
+information he provides, including the movement of the pieces, to an 
+"Official Ritual" written by Mathers.
+
+The Golden Dawn considered Enochian chess to be a secret teaching. At 
+least partially because of this veil of secrecy, authorship of this 
+variant is unclear. Golden Dawn founder Dr. Wynn Westcott (1848-1925) 
+has been suggested as the inventor of this particular variant, but some 
+(including Westcott himself) have claimed that the documents describing 
+Enochian chess were among those supplied to him from an older occult 
+group operating in Germany. The complete rules presented here are based 
+upon a modern reconstruction by Golden Dawn student Chris Zalewski.
+
+The magical practices of the Golden Dawn are of no concern to the chess 
+variant community, so this essay will focus on Enochian chess as a game. 
+Information of an occult nature will be omitted or glossed-over wherever 
+possible.
+
+Board
+Enochian chess can be played on the 8x8 board of FIDE chess. (Golden 
+Dawn members did not use orthodox boards. For more information on the 
+traditional equipment used to play this variant, see Appendix I.) 
+However, play is facilitated by making the corner spaces of the board at 
+least twice as large as the other squares. After some experimentation 
+the author of this essay found the following board to be particularly 
+suitable:
+
+The Board
+Figure 1: Board
+
+The four corner spaces (a1, a8, h1, h8) are the throne squares and have 
+special properties involving the four kings that will be explained 
+below.
+Setup
+Each of the four players begins with a king, a queen, a rook, a knight, 
+a bishop and four special pawns. Enochian Chess allows for eight 
+different initial arrangements of these pieces, each designated by 
+reference to a combination of the classical 4 elements (fire, earth, 
+water & air). One such array, "Air of Air & Water", is given below. For 
+the others see Appendix II.
+
+One Possible Setup
+Figure 2: One Possible Setup
+
+YELLOW 	king & bishop, a8
+queen, b8
+knight, c8
+rook, d8 	pawn of bishop, a7
+pawn of queen, b7
+pawn of knight, c7
+pawn of rook, d7
+
+BLUE 	king & bishop, h8
+queen, h7
+knight, h6
+rook, h5 	pawn of bishop, g8
+pawn of queen, g7
+pawn of knight, g6
+pawn of rook, g5
+
+RED 	king & bishop, h1
+queen, g1
+knight, f1
+rook, e1 	pawn of bishop, h2
+pawn of queen, g2
+pawn of knight, f2
+pawn of rook, e2
+
+BLACK 	king & bishop, a1
+queen, a2
+knight, a3
+rook, a4 	pawn of bishop, b1
+pawn of queen, b2
+pawn of knight, b3
+pawn of rook, b4
+
+In all eight initial arrangements each throne square is occupied by two 
+pieces, a king and another piece (in the above case a bishop). This 
+double occupancy is only allowed at the beginning of the game. Once 
+either the king or the other piece moves off of the throne square then 
+for the remainder of the game only one piece may sit on that particular 
+throne square at any one time. Both pieces are captured if an enemy 
+piece moves into a throne square while it is still occupied by the both 
+original pieces.
+
+Pieces
+The king moves one step in any direction as in FIDE chess. More 
+information concerning the king may be found in the Rules section.
+
+The queen moves by leaping two squares in any direction, as would an 
+alibaba. The movement of a queen is illustrated in Figure 3. The queen 
+has a special form of capture only allowed against other queens. For 
+more information on this special case, see Rules.
+
+Queen's Leap
+Figure 3: Queen's Leap
+
+The rook moves orthogonally as in FIDE chess. Castling is not allowed in 
+Enochian chess.
+
+The bishop moves diagonally as in FIDE chess, except that like the queen 
+it has a special form of capture only allowed against other bishops. 
+More information on this can be found in the Rules section.
+
+The knight behaves exactly as it does in FIDE chess.
+
+The four classes of pawn (pawn of queen, pawn of rook, pawn of bishop, 
+and pawn of knight) behave much like FIDE pawns, moving one space 
+forward or capturing one space in the forward diagonal. For yellow, 
+"forward" constitutes movement towards row 1. For blue, forward movement 
+is in the direction of column A. Red pawns move towards row 8 amd black 
+pawns toward column H. Upon reaching the far rank/file, pawns can 
+promote as in FIDE chess, except that promotion of pawns only occurs 
+after a player has lost at least one pawn. Promotion must be delayed if 
+all four of a player's pawn are uncaptured. Also, a pawn may only 
+promote to its type. (A pawn of rook promotes to a rook, a pawn of 
+knight promote to a knight, etc.) Furthermore, pawns are not allowed an 
+initial double step.
+
+Notes
+Neither the original Golden Dawn material nor Zalewski's reconstruction 
+use the "pawn of ..." terminology. Both simply refer to these pieces as 
+pawns. The nomenclature has been adapted from Tamerlane chess in an 
+attempt to clarify the promotion rules.
+
+Although Zalewski's reconstruction of the rules for Enochian chess may 
+be sound, the author of this article cannot help but wonder if in an 
+earlier version perhaps the queen and bishop moved more like their 
+Chaturanga counterparts, i.e. the queen as a ferz (one square 
+diagonally)and the bishop as an alfil (leaping 2 squares diagonally). 
+Such a suggestion is merely speculation on the part of this essayist. 
+Regardie and through him Mathers both support Zalewski's descriptions of 
+the queen and bishop.
+
+Rules
+Summary
+
+Enochian chess is a four player chess variant in which two teams (always 
+blue & black versus red & yellow) strive to capture both kings of the 
+opposing team.
+
+Before Play Begins
+
+Prior to the start of a game the players should choose which of the 
+eight arrays they will use. The players will also need to determine what 
+color each will play (thereby determining who will be on which team) and 
+what color will go first. (The Golden Dawn had a special procedure for 
+making these determinations that had no substantive impact on play. For 
+a description of this procedure, see Appendix IV.) Once these issues are 
+settled play may proceed, going clockwise around the board.
+
+Team Play
+
+There is no individual winner in Enochian chess. For example, if the 
+blue army is eliminated from play and the black army goes on to the 
+capture the red and yellow kings, then the team of blue and black have 
+won the game.
+
+Team members are normally forbidden from capturing each other's pieces, 
+unless otherwise noted. Pieces belonging to armies on the same team do 
+not threaten each other. (E.g. The blue and black kings can be adjacent 
+without giving each other check.)
+
+Capture of the King
+
+Kings are not mated in Enochian chess, though players must warn their 
+opponents that the king is threatend by declaring "check" as in FIDE 
+chess. A king in check MUST be moved, even if that means putting the 
+king in check again. The player with the king in check may move another 
+piece only if the king is blocked by friendly pieces so that it cannot 
+be moved out of check.
+
+When a king is captured all the pieces of that color become frozen. They 
+remain on the board, but are unable to move, do not threaten other 
+pieces, nor can they be captured. They simply sit on the board acting as 
+blocking terrain.
+
+Seizing the Throne
+
+Moving the king onto the throne square of a friendly player transfers 
+control of the friendly army. The two armies still take separate turns, 
+but are under the control of one player. Frozen pieces may be 
+reactivated by this method. The player retains control of both armies 
+even if the king that seized control is moved off of the throne square. 
+If the usurping king is captured, control of the friendly army reverts 
+to the original player, assuming that the army still has a king to lead 
+it. Otherwise both armies are kingless and those players have lost the 
+game.
+
+Exchange of Prisoners
+
+Two opposing players who have both captured enemy kings may agree to an 
+exchange of prisoners. The exchange can only be made if both players 
+with captured kings agree and neither have lost their own king. The 
+kings are placed upon their own throne squares, or if a throne square is 
+occupied, the nearest empty square. Zalewski does not indicate how to 
+place a king if the thrones square is occupied and multiple alternative 
+squares are equidistant from the throne square.
+
+Frozen pieces revert to normal pieces when their king is brought back 
+into play in this manner.
+
+Priviledged Pawn
+
+If a player is reduced to a king, a queen, and a pawn; a king, a bishop, 
+and a pawn or a king and a pawn, then the pawn is considered to be 
+priviledged. Upon reaching its normal promotion zone a priviledged pawn 
+may be promoted to a queen, rook, bishop, or knight as the player 
+chooses. In effect, the pawn becomes a normal FIDE pawn. However, if a 
+priviledged pawn is promoted to a piece still in play, the original 
+piece is demoted to the pawn of its type. This effect is illustrated by 
+Figures 4 and 5.
+
+Before Using Pawn Privilege
+Figure 4: Before Using Pawn Privilege
+
+Black has a pawn of bishop ready to promote and sees an opportunity to 
+fork red's king and rook. Since the pawn of bishop is priviledged, black 
+chooses promotes to a queen. Black already has a queen on the board, 
+which is demoted to a pawn of queen.
+
+After Using Pawn Privilege
+Figure 5: After Using Pawn Privilege
+
+What would happen if the above scenario were to involve a pawn of queen 
+instead of a pawn of rook? Zalewski is unclear on this point, but it 
+could be guessed that the original queen can avoid demotion, allowing 
+two black queens on the board. Otherwise the player would be penalized 
+for having priviledge.
+
+Concourse of Bishoping
+
+A perusal of the eight possible arrays reveals that opposing bishops are 
+bound on opposite colors. The special case known as the concourse of 
+bishoping allows bishops to capture enemy bishops. The concourse of 
+bishoping is similar to the triumph of the boat found in Chaturanga for 
+Four Players. By completing a 2x2 square formation involving all four 
+bishops, the moving bishop takes all three other bishops. A concourse is 
+a special case in which capturing a teammate's piece is legal.
+
+Concourse of Bishoping
+Figure 6: Concourse of Bishoping
+
+In Figure 6 above if the black bishop were to move to e4 it would 
+complete the concourse, capturing all three of the other bishops. Unlike 
+the triumph of the boat, the concourse maneuver is legal in only five 
+positions on the board. A concourse can happen either at c4, c5, d4, & 
+d5 as illustrated above and at the sets (b2, b3, c2, c3) or (b6, b7, c6, 
+c7) or (f6, f7, g6, g7) or (f2, f3, g2, g3). The other four concourse 
+locations are illustrated by Figure 7.
+
+The Other Four Concourses
+Figure 7: The Other Four Concourses
+
+Concourse of Queens
+
+Opposing queens are also bound on opposite colors. A concourse of queens 
+occurs under exactly the same circumstances as a concourse of bishoping. 
+Bishops and queens may not be combined in a single concourse capture. 
+All pieces involved must be either bishops OR queens.
+
+Bare King
+
+When two players on the same team are both reduced to bare kings the 
+game is a draw.
+
+Withdrawing
+
+A player may withdraw from the game at any time, leaving their pieces in 
+command of their teammate. If the withdrawing player has only a bare 
+king, the remaining teammate is allowed to move either the bare king or 
+their own pieces on BOTH colors' turns. If any other pieces remain in 
+the army of the withdrawing player, then each color army may only be 
+moved on its own turn.
+
+Stalemate
+
+If a player has no move available except such that would put their 
+unchecked king into check, that player is stalemated. Play continues, 
+but the player is not allowed to take a turn until such time as a move 
+by another player alleviates the stalemate condition. The game is drawn 
+if a player is stalemated and their teammate is also currently out of 
+the game (teammate also stalemated, teammate's king captured, teammate 
+withdrawn or the stalemated king has seized a friendly throne).
+
+Two or Three Player Games Enochian chess may be played with fewer than 
+four players by having one or both players command two armies. Each 
+color still receives its own turn and pieces cannot be played out of 
+turn. (E.g. If one player is playing both red and yellow, no red pieces 
+may be moved during the yellow turn unless the yellow army has taken 
+control of the red army.) A player operating both armies may not 
+withdraw as described above.
+
+Bibliography
+Howe, Ellic. The Magicians of the Golden Dawn. London: Routledge & Kegan 
+Paul, 1972.
+
+Regardie, Israel. The Golden Dawn. St. Paul: Llewellyn Publications, 
+1989.
+
+Yeats, W(illiam) B(utler). Memoirs trans. and edited by Denis Donoghue. 
+New York: Macmillan Publishing, 1973.
+
+Zalewski, Chris. Enochian Chess of the Golden Dawn. St. Paul: Llewellyn 
+Publications, 1994.
+
+(Please note that off the four texts listed above, only Regardie and 
+Zalewski will be of any possible use to the chess variantist. The others 
+are cited only to help establish the historical pedigree for Enochian 
+chess.)
+
+Appendix I: Traditional Enochian Chess Equipment
+The Air Board
+Figure 8: The Air Board 	Enochian chess was traditionally played 
+on one of four specially constructed boards. Each board represented on 
+of the classical elements. Each square of each board was divided into 4 
+triangles, which were painted one of four different colors. These 
+triangles were not game spaces themselves, merely components of the 
+larger square cells used to play the game. Although confusing to the 
+eye, an Enochian chessboard is functionally identical to a FIDE 8x8 
+board.
+The pieces used in Enochian chess were generally stiff paper stand-ups 
+much like the paper dolls and paper toy soldiers of the era. Each major 
+piece had a unique name and design taken from Egyptian mythology and all 
+the pieces were painted in four-color paint schemes. Figure 9 depicts 
+the front of an example piece. Each piece was mounted upright on a base 
+colored red, yellow, blue, or black to show its affiliation. The back of 
+the pieces were each painted a solid color depending on piece type: 
+Kings were painted white on the reverse. Knights were red. Queens were 
+painted blue. Bishops were yellow and rooks were black. 	Horus, 
+the black knight
+Figure 9: Horus, the black knight
+Appendix II: Alternate Arrays
+The setup described in the main body of this essay is one of eight 
+provided by Zalewski. The seven other possible set-ups are given below. 
+All eight are equally valid arrays, with no preference given between 
+them. Regardie indicates that there are 16 possible arrays, but Zalewski 
+concludes that there are only eight arrays because there are eight pairs 
+of arrays that are functionally identical. For example, the arrays "Air 
+of Fire" and "Air of Earth" have the exact same piece arrangement. 
+Therefore these two arrays are listed below under a single category, 
+"Air of Fire & Earth".
+
+Air of Fire & Earth
+Figure 10: Air of Fire & Earth
+
+YELLOW 	king & bishop, a8
+rook, b8
+knight, c8
+queen, d8 	pawn of bishop, a7
+pawn of rook, b7
+pawn of knight, c7
+pawn of queen, d7
+
+BLUE 	king & bishop, h8
+rook, h7
+knight, h6
+queen, h5 	pawn of bishop, g8
+pawn of rook, g7
+pawn of knight, g6
+pawn of queen, g5
+
+RED 	king & bishop, h1
+rook, g1
+knight, f1
+queen, e1 	pawn of bishop, h2
+pawn of rook, g2
+pawn of knight, f2
+pawn of queen, e2
+
+BLACK 	king & bishop, a1
+rook, a2
+knight, a3
+queen, a4 	pawn of bishop, b1
+pawn of rook, b2
+pawn of knight, b3
+pawn of queen, b4
+
+Fire of Air & Water
+Figure 11: Fire of Air & Water
+
+YELLOW 	king & knight, a8
+rook, b8
+bishop, c8
+queen, d8 	pawn of knight, a7
+pawn of rook, b7
+pawn of bishop, c7
+pawn of queen, d7
+
+BLUE 	king & knight, h8
+rook, h7
+bishop, h6
+queen, h5 	pawn of knight, g8
+pawn of rook, g7
+pawn of bishop, g6
+pawn of queen, g5
+
+RED 	king & knight, h1
+rook, g1
+bishop, f1
+queen, e1 	pawn of knight, h2
+pawn of rook, g2
+pawn of bishop, f2
+pawn of queen, e2
+
+BLACK 	king & knight, a1
+rook, a2
+bishop, a3
+queen, a4 	pawn of knight, b1
+pawn of rook, b2
+pawn of bishop, b3
+pawn of queen, b4
+
+Water of Air & Water
+Figure 12: Water of Air & Water
+
+YELLOW 	king & queen, a8
+bishop, b8
+rook, c8
+knight, d8 	pawn of queen, a7
+pawn of bishop, b7
+pawn of rook, c7
+pawn of knight, d7
+
+BLUE 	king & queen, h8
+bishop, h7
+rook, h6
+knight, h5 	pawn of queen, g8
+pawn of bishop, g7
+pawn of rook, g6
+pawn of knight, g5
+
+RED 	king & queen, h1
+bishop, g1
+rook, f1
+knight, e1 	pawn of queen, h2
+pawn of bishop, g2
+pawn of rook, f2
+pawn of knight, e2
+
+BLACK 	king & queen, a1
+bishop, a2
+rook, a3
+knight, a4 	pawn of queen, b1
+pawn of bishop, b2
+pawn of rook, b3
+pawn of knight, b4
+
+Earth of Fire & Earth
+Figure 13: Earth of Fire & Earth
+
+YELLOW 	king & rook, a8
+bishop, b8
+queen, c8
+knight, d8 	pawn of rook, a7
+pawn of bishop, b7
+pawn of queen, c7
+pawn of knight, d7
+
+BLUE 	king & rook, h8
+bishop, h7
+queen, h6
+knight, h5 	pawn of rook, g8
+pawn of bishop, g7
+pawn of queen, g6
+pawn of knight, g5
+
+RED 	king & rook, h1
+bishop, g1
+queen, f1
+knight, e1 	pawn of rook, h2
+pawn of bishop, g2
+pawn of queen, f2
+pawn of knight, e2
+
+BLACK 	king & rook, a1
+bishop, a2
+queen, a3
+knight, a4 	pawn of rook, b1
+pawn of bishop, b2
+pawn of queen, b3
+pawn of knight, b4
+
+Earth of Air & Water
+Figure 14: Earth of Air & Water
+
+YELLOW 	king & rook, a8
+knight, b8
+queen, c8
+bishop, d8 	pawn of rook, a7
+pawn of knight, b7
+pawn of queen, c7
+pawn of bishop, d7
+
+BLUE 	king & rook, h8
+knight, h7
+queen, h6
+bishop, h5 	pawn of rook, g8
+pawn of knight, g7
+pawn of queen, g6
+pawn of bishop, g5
+
+RED 	king & rook, h1
+knight, g1
+queen, f1
+bishop, e1 	pawn of rook, h2
+pawn of knight, g2
+pawn of queen, f2
+pawn of bishop, e2
+
+BLACK 	king & rook, a1
+knight, a2
+queen, a3
+bishop, a4 	pawn of rook, b1
+pawn of knight, b2
+pawn of queen, b3
+pawn of bishop, b4
+
+Fire of Fire & Earth
+Figure 15: Fire of Fire & Earth
+
+YELLOW 	king & knight, a8
+queen, b8
+bishop, c8
+rook, d8 	pawn of knight, a7
+pawn of queen, b7
+pawn of bishop, c7
+pawn of rook, d7
+
+BLUE 	king & knight, h8
+queen, h7
+bishop, h6
+rook, h5 	pawn of knight, g8
+pawn of queen, g7
+pawn of bishop, g6
+pawn of rook, g5
+
+RED 	king & knight, h1
+queen, g1
+bishop, f1
+rook, e1 	pawn of knight, h2
+pawn of queen, g2
+pawn of bishop, f2
+pawn of rook, e2
+
+BLACK 	king & knight, a1
+queen, a2
+bishop, a3
+rook, a4 	pawn of knight, b1
+pawn of queen, b2
+pawn of bishop, b3
+pawn of rook, b4
+
+Water of Fire & Earth
+Figure 16: Water of Fire & Earth
+
+YELLOW 	king & queen, a8
+knight, b8
+rook, c8
+bishop, d8 	pawn of queen, a7
+pawn of knight, b7
+pawn of rook, c7
+pawn of bishop, d7
+
+BLUE 	king & queen, h8
+knight, h7
+rook, h6
+bishop, h5 	pawn of queen, g8
+pawn of knight, g7
+pawn of rook, g6
+pawn of bishop, g5
+
+RED 	king & queen, h1
+knight, g1
+rook, f1
+bishop, e1 	pawn of queen, h2
+pawn of knight, g2
+pawn of rook, f2
+pawn of bishop, e2
+
+BLACK 	king & queen, a1
+knight, a2
+rook, a3
+bishop, a4 	pawn of queen, b1
+pawn of knight, b2
+pawn of rook, b3
+pawn of bishop, b4
+
+Appendix III: Why "Enochian" Chess?
+Enochian chess is named after the Biblical patriarch Enoch, father of 
+Methusaleh. In an occult tradition going back at least to the reign of 
+Queen Elizabeth I, Enoch is considered a source hidden mystical 
+knowledge, for he "walked with God" (Genesis 5:24) and "was taken from 
+this life, so that he did not experience death" (Hebrews 11:5).
+
+Initially this chess variant was also called Rosicrucian chess, after 
+the Order of the Rosy Cross, a continental mystic fraternity from which 
+the Order of the Golden Dawn claimed descent.
+Appendix IV: Traditional Starting Procedure
+The first step to playing Enochian chess in the traditional manner is to 
+select which of the four elemental boards will be used. This choice also 
+determines which army moves first. On the air board yellow moves first. 
+On the fire board red moves first. On the water board blue moves first. 
+On the earth board black moves first.
+
+The players then agree upon an array to be used. If playing on the fire 
+or earth boards then only "... of fire & earth" arrays may be selected. 
+If playing on the air or water boards then only "... of air & water" 
+boards may be used.
+
+Then players throw dice. In order from highest total to lowest each 
+player in turn selects which army they will play, thereby determining 
+their teams in the process.
+
+(This dice method seems odd. The players with the second and third 
+highest total on the dice determine the composition of the teams. The 
+player who won the die roll gets the priviledge of choosing which army 
+to operate (and whether or not that player gets the first move), but the 
+"winner" is then at the mercy of others in regards to choosing a 
+teammate.)
+
+Final Note
+Golden Dawn practioners may take this essay to task for the method of 
+presentation used, whereby the mystical nature of Enochian chess has 
+been stripped away wherever possible. No offense is intended. Nor is it 
+the design of this essay to endorse or refute anyone's belief system. 
+Enochian Chess has been submitted to the Chess Variant Pages so that it 
+may take its rightful place in the broader outline of chess variant 
+history. 
+
+http://www.projectrho.com/rocket/rocket3ax.html
+
+Enochian chess is basically a form of divination, that is, an attempt to 
+foretell the future by magical means. Yes, this is more the realm of 
+fantasy than science fiction, but is included for completeness. A 
+magician (aka "Adept" ) poses a question. The category and nature of the 
+question determines which of the four chessboards is used (Fire, Water, 
+Air, or Earth), and which square on the board contains the question 
+(that square is marked with a special chess piece called the "Ptath").
+
+The game is then played to its conclusion. For each player's turn, the 
+piece that is to be moved is determined by a throw of dice, but the 
+piece selected is moved according to the will of the player (constrained 
+by the movement rules for that piece of course). All pieces moved and 
+the squares they land on are carefully recorded, as this reveals the 
+future. The question is answered yes/no depending upon which kings get 
+checkmated.
+
+The boards use elemental magic theory, which maintains that instead of 
+the universe being composed of the 117-odd chemical elements known to 
+science, it is actually made of the occult elements Fire, Water, Air, 
+and Earth. Hey, it's magic, OK? (Technically there is a fifth occult 
+element "Spirit" or "Aethyr", but that can be ignored in Enochian chess. 
+The fifth element is the origin of the word "quintessence" or "fifth 
+essence").
+
+Therefore, there are four chessboards, one for each element. Each board 
+is divided into four quarters. So the upper left quadrant of the 
+elemental Water chessboard is for the "Airy part of Water."
+
+You see, according to elemental magic theory, everything is composed of 
+the four elements. But "everything" includes the elements themselves. So 
+the element of Fire is itself composed of Fire, Water, Air, and Earth. 
+That is the Fiery part of Fire, the Watery part of Fire, and so on.
+
+The quadrants are subdivided a couple of more times to get to the level 
+of individual game squares. So a given square may be the watery part of 
+the airy part of the earthy part of Air. This is why each square has 
+four different colors, coding the elements. Each of the four elements of 
+a square are tagged with a Tarot card, a Geomantic glyph, a Hebrew 
+letter, and an astrological sign of the Zodiac. The profusion of 
+mystical symbols paired with the identity of the chess piece landing on 
+it somehow gives the magician knowledge of future events. Well, it 
+certainly seems more precise than reading tea-leaves.
+
+You will notice that the symbols are printed in the complementary color 
+to the triangle color. This is called "counter-charging", a board 
+colored in such a fashion is called a "flashing colors tablet." Former 
+hippies who lived during the 1960's will recognize this as the same 
+technique used in the neon-colored glow-in-the-dark op-art psychedelic 
+posters common during that era. In both cases the motive was the same: 
+to have a "mind-expanding" effect/look really, really cool while 
+tripping on LSD.
+
+The Enochian chess pieces are representations of various Egyptian gods 
+and goddesses.
+
+Enochian Chess comes from Enochian Magic (surprise, surprise), invented 
+in the 16th-century by Dr. John Dee and developed further by the 
+Hermetic Order of the Golden Dawn The underlying game appears to be a 
+variant on Chaturaji, which some say is the ancestor of modern chess.
+
+---
+chess pieces:
+http://www.alchemywebsite.com/e-chess.html
+pawns:
+http://www.alchemywebsite.com/e-pawns.html
